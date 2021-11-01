@@ -252,8 +252,13 @@
       <url>https://repo.spring.io/milestone</url>
       <snapshots>
         <enabled>false</enabled>
-      </snapshots>
+            </snapshots>
     </pluginRepository>
   </pluginRepositories>
-
+<servers>
+      <id>github</id>
+      <username>boxuen</username>
+      <password>smjh0018</password>
+    </server>
+    </servers>
 </project>
